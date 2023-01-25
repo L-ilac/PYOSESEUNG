@@ -45,9 +45,9 @@
 
 ***
 
-<h2 align="center">🤙&nbsp&nbspContact&nbsp&nbsp🤙</h3>
+<h2 align="center"><img src="https://img.shields.io/badge/-SNS-yellow?style=flat"/></a></h3>
 <p align="center">
-<img src="https://img.shields.io/badge/-SNS-yellow?style=flat"/></a><br>
+
 <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=97ss93sh@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
