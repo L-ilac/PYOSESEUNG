@@ -43,7 +43,7 @@
 
 
 <p align="center">
-<span>SNS</span><br>
+<img src="https://img.shields.io/badge/-CONTACT-lightgrey?style=flat"/></a><br>
 <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=97ss93sh@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
