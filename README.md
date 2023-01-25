@@ -45,7 +45,7 @@
 
 ***
 
-<h2 align="center"><img src="https://img.shields.io/badge/-SNS-yellow?style=flat"/></a></h3>
+<h2 align="center">🤙 Contack 🤙</h3>
 <p align="center">
 
 <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=97ss93sh@gmail.com" target="_blank">
