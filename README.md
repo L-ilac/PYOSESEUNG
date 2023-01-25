@@ -8,7 +8,7 @@
 
 - 📫 How to reach me: 
 
-<h3 align="center">My Tech Stack:computer:</h3>
+<h3 align="center">My Tech Stack&nbsp:computer:</h3>
 
 <div>
     <p align="center">
