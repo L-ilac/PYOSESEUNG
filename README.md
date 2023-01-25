@@ -22,7 +22,7 @@
 
 #
 <p align="center">
-    <span>FRAMEWORK</span>
+    <span>FRAMEWORK</span><br>
     <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
@@ -30,12 +30,12 @@
 
 #IDE
 <p align="center">
-    <span>IDE</span>
+    <span>IDE</span><br>
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a>
 </p>
 
 <p align="center">
-    <span>DATABASE</span>
+    <span>DATABASE</span><br>
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/></a>
 </p>
@@ -43,14 +43,14 @@
 
 
 <p align="center">
-    <span>ETC</span>
+    <span>ETC</span><br>
     <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>
 </p>
 
 
 
 <p align="center">
-    <span>SNS</span>
+    <span>SNS</span><br>
     <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=97ss93sh@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"
             style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
