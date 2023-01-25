@@ -8,54 +8,61 @@
 
 - 📫 How to reach me: 
 
-#LANGUAGE
+<h3 align="center">🛠 My Tech Stack 🛠</h3>
+<p align="center"> Techs that I've used at least once </p>
+
 <p align="center">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JAVA-f89820?style=flat-square&logo=OpenJDK&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+    <span>LANGUAGE</span>
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/JAVA-f89820?style=flat-square&logo=OpenJDK&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 </p>
 
 
-#FRAMEWORK
+#
 <p align="center">
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
+    <span>FRAMEWORK</span>
+    <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
 </p>
 
 #IDE
 <p align="center">
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a>
+    <span>IDE</span>
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a>
 </p>
 
-#DATABASE
 <p align="center">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/></a>
+    <span>DATABASE</span>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/></a>
 </p>
 
 
-#ETC
+
 <p align="center">
-<img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>
+    <span>ETC</span>
+    <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>
 </p>
 
-#SNS
+
 
 <p align="center">
-<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=97ss93sh@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
-        
-<a href="https://velog.io/@97ss93sh">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"&link=https://velog.io/@97ss93sh"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
-                                                                       
-                                                                       
-<a href="https://www.instagram.com/lilac__p">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"&link=https://www.instagram.com/lilac__p/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+    <span>SNS</span>
+    <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=97ss93sh@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"
+            style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+
+    <a href="https://velog.io/@97ss93sh">
+        <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"&link=https://velog.io/@97ss93sh"
+            style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+
+
+    <a href="https://www.instagram.com/lilac__p">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"&link=https://www.instagram.com/lilac__p/"
+            style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 </p>
 
 
