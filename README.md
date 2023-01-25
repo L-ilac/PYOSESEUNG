@@ -34,9 +34,20 @@
 
 
 #SNS
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Instagram-#4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+
+
+<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=97ss93sh@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+        
+<a href="https://velog.io/@97ss93sh">
+    <img src="https://img.shields.io/badge/Instagram-#4405F?style=flat-square&logo=Instagram&logoColor=white"&link=https://velog.io/@97ss93sh"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+                                                                       
+                                                                       
+<a href="https://www.instagram.com/lilac__p/">
+    <img src="https://img.shields.io/badge/Instagram-#4405F?style=flat-square&logo=Instagram&logoColor=white"&link=https://velog.io/@97ss93sh"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
 
 
