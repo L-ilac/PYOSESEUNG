@@ -10,7 +10,7 @@
 
 ***
 
-<h3 align="center">:computer:&nbsp&nbspMy Tech Stack&nbsp&nbsp:computer:</h3>
+<h2 align="center">:computer:&nbsp&nbspMy Tech Stack&nbsp&nbsp:computer:</h3>
 
 <p align="center">
     <img src="https://img.shields.io/badge/-LANGUAGE-lightgrey?style=flat"/></a>&nbsp&nbsp
@@ -45,6 +45,7 @@
 
 ***
 
+<h2 align="center">🤙&nbsp&nbspContact&nbsp&nbsp🤙</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/-SNS-yellow?style=flat"/></a><br>
 <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=97ss93sh@gmail.com" target="_blank">
