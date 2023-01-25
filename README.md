@@ -8,45 +8,40 @@
 
 - 📫 How to reach me: 
 
-<h3 align="center">🛠 My Tech Stack 🛠</h3>
-<p align="center"> Techs that I've used at least once </p>
+<h3 align="center">:computer: My Tech Stack :computer:</h3>
 
-<p align="center">
-    <span>LANGUAGE</span>
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/JAVA-f89820?style=flat-square&logo=OpenJDK&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<div>
+    <p align="center">
+        <span>LANGUAGE</span><br>
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
+        <img src="https://img.shields.io/badge/JAVA-f89820?style=flat-square&logo=OpenJDK&logoColor=white"/></a>
+        <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+    </p>
+
+    <p align="center">
+        <span>FRAMEWORK</span><br>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
+        <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
+    </p>
+
+    <p align="center">
+        <span>IDE</span><br>
+        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a>
+    </p>
+
+    <p align="center">
+        <span>DATABASE</span><br>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>
+        <img src="https://img.shields.io/badge/MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/></a>
+    </p>
+
+    <p align="center">
+        <span>ETC</span><br>
+        <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>
 </p>
-
-
-#
-<p align="center">
-    <span>FRAMEWORK</span><br>
-    <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
-</p>
-
-#IDE
-<p align="center">
-    <span>IDE</span><br>
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a>
-</p>
-
-<p align="center">
-    <span>DATABASE</span><br>
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/></a>
-</p>
-
-
-
-<p align="center">
-    <span>ETC</span><br>
-    <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>
-</p>
-
+</div>
 
 
 <p align="center">
