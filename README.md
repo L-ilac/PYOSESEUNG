@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-- 😄 I’m PYO SE SEUNG, You can call me Lilac.
+- 😄 I’m PYO SE SEUNG from South Korea, You can call me Lilac.
 
 - 🌱 I’m currently learning JAVA, SPRING, SPRINGBOOT, PYTHON, DJANGO
+
+- 🧐 I used to learn Network/Web Security, Authentication/Authorization. 
 
 - 🤔 I’m interested in Web Development(especially Back-End) 
 
