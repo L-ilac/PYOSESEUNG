@@ -11,7 +11,7 @@
 <h3 align="center">:computer:&nbsp&nbspMy Tech Stack&nbsp&nbsp:computer:</h3>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/-LANGUAGE-092E20?style=flat-square"/></a>
+    <img src="https://img.shields.io/badge/-LANGUAGE-lightgrey?style=flat"/></a>&nbsp&nbsp
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/JAVA-f89820?style=flat-square&logo=OpenJDK&logoColor=white"/></a>
@@ -19,25 +19,25 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/-FRAMEWORK-092E20?style=flat-square"/></a>    
+    <img src="https://img.shields.io/badge/-FRAMEWORK-lightgrey?style=flat"/></a>&nbsp&nbsp   
     <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/-IDE-092E20?style=flat-square"/></a>
+    <img src="https://img.shields.io/badge/-IDE-lightgrey?style=flat"/></a>&nbsp&nbsp
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a>
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/-DATABASE-092E20?style=flat-square"/></a>
+    <img src="https://img.shields.io/badge/-DATABASE-lightgrey?style=flat"/></a>&nbsp&nbsp
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/></a>
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/-ETC-092E20?style=flat-square"/></a>
+    <img src="https://img.shields.io/badge/-ETC-lightgrey?style=flat"/></a>&nbsp&nbsp
     <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>
 </p>
 
