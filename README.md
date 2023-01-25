@@ -6,8 +6,6 @@
 
 - 🤔 I’m interested in Web Development(especially Back-End) 
 
-- 💬 Ask me about ...
-
 - 📫 How to reach me: 
 
 #LANGUAGE
@@ -22,7 +20,7 @@
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
 
 #IDE
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a>
 
 
 #DATABASE
@@ -30,7 +28,7 @@
 <img src="https://img.shields.io/badge/MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/></a>
 
 #ETC
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>
 
 
 #SNS
