@@ -33,6 +33,12 @@
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>
 
 
+#SNS
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Instagram-#4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+
+
 
 ![Lilac's GitHub stats](https://github-readme-stats.vercel.app/api?username=PYOSESEUNG&show_icons=true&theme=onedark)
 
