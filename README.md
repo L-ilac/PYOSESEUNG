@@ -11,11 +11,12 @@
 - 📫 How to reach me: 
 
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Django-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/JAVA-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/SpringBoot-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/VisualStudioCode-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Django-3766AB?style=flat-square&logo=Django&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JAVA-3766AB?style=flat-square&logo=JAVA&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Spring-3766AB?style=flat-square&logo=Spring&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/SpringBoot-3766AB?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/VisualStudioCode-3766AB?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a>
 
 
 ![Lilac's GitHub stats](https://github-readme-stats.vercel.app/api?username=PYOSESEUNG&show_icons=true&theme=onedark)
