@@ -1,14 +1,14 @@
-### Hi there 👋
+### Thanks for visiting my Github 😁
 
 - 😄 I’m PYO SE SEUNG from South Korea, You can call me Lilac.
-
-- 🌱 I’m currently learning JAVA, SPRING, SPRINGBOOT, PYTHON, DJANGO
 
 - 🧐 I used to learn Network/Web Security, Authentication/Authorization. 
 
 - 🤔 I’m interested in Web Development(especially Back-End) 
 
-- 📫 How to reach me: 
+- 🌱 I’m currently learning JAVA, SPRING, SPRINGBOOT, PYTHON, DJANGO
+
+
 
 <h3 align="center">:computer:&nbsp&nbspMy Tech Stack&nbsp&nbsp:computer:</h3>
 
