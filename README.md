@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning JAVA, SPRING, SPRINGBOOT, PYTHON, DJANGO
 
-
+***
 
 <h3 align="center">:computer:&nbsp&nbspMy Tech Stack&nbsp&nbsp:computer:</h3>
 
@@ -43,6 +43,7 @@
     <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>
 </p>
 
+***
 
 <p align="center">
 <img src="https://img.shields.io/badge/-SNS-yellow?style=flat"/></a><br>
@@ -60,6 +61,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 </p>
 
+***
 
 ![Lilac's GitHub stats](https://github-readme-stats.vercel.app/api?username=PYOSESEUNG&show_icons=true&theme=onedark)
 
