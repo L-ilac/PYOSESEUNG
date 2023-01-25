@@ -43,19 +43,19 @@
 
 
 <p align="center">
-    <span>SNS</span><br>
-    <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=97ss93sh@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"
-            style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+<span>SNS</span><br>
+<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=97ss93sh@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
-    <a href="https://velog.io/@97ss93sh">
-        <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"&link=https://velog.io/@97ss93sh"
-            style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+<a href="https://velog.io/@97ss93sh">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"&link=https://velog.io/@97ss93sh"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
 
-    <a href="https://www.instagram.com/lilac__p">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"&link=https://www.instagram.com/lilac__p/"
-            style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+<a href="https://www.instagram.com/lilac__p">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"&link=https://www.instagram.com/lilac__p/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 </p>
 
 
@@ -70,22 +70,6 @@
 
 <!--
 **PYOSESEUNG/PYOSESEUNG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
-
-
-
 - 👯 I’m looking to collaborate on ...
-
-
-
-
-
-
-
--  Pronouns: ...
-
-- ⚡ Fun fact: ...
 -->
