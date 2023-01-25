@@ -50,11 +50,10 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
 
-
+<div align="center">
 ![Lilac's GitHub stats](https://github-readme-stats.vercel.app/api?username=PYOSESEUNG&show_icons=true&theme=onedark)
-
-
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=93sh97ss)](https://solved.ac/93sh93ss)
+</div>
 
 <!--
 **PYOSESEUNG/PYOSESEUNG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
