@@ -41,12 +41,12 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
         
 <a href="https://velog.io/@97ss93sh">
-    <img src="https://img.shields.io/badge/Instagram-#4405F?style=flat-square&logo=Instagram&logoColor=white"&link=https://velog.io/@97ss93sh"
+    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"&link=https://velog.io/@97ss93sh"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
                                                                        
                                                                        
 <a href="https://www.instagram.com/lilac__p/">
-    <img src="https://img.shields.io/badge/Instagram-#4405F?style=flat-square&logo=Instagram&logoColor=white"&link=https://velog.io/@97ss93sh"
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"&link=https://www.instagram.com/lilac__p/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
 
