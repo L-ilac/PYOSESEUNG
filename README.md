@@ -6,7 +6,7 @@
 
 - 🤔 I’m interested in Web Development(especially Back-End) 
 
-- 🌱 I’m currently learning JAVA, SPRING, SPRINGBOOT, PYTHON, DJANGO
+- 🌱 I’m currently studying JAVA, SPRING, SPRINGBOOT, PYTHON, DJANGO
 
 ***
 
