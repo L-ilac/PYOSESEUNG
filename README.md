@@ -67,10 +67,6 @@
 <h2 align="center">🏃 Improve Myself 🏃</h3>
 <div align="center">
     
-![Lilac's GitHub stats](https://github-readme-stats.vercel.app/api?username=PYOSESEUNG&show_icons=true&theme=onedark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PYOSESEUNG&layout=compact&theme=onedark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=93sh97ss)](https://solved.ac/93sh93ss)
 </div>
 
